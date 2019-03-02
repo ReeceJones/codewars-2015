@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+codewars-2015.so
+codewars-2015.dylib
+codewars-2015.dll
+codewars-2015.a
+codewars-2015.lib
+codewars-2015-test-*
+*.exe
+*.o
+*.obj
+*.lst
+prob16
+prob03
+prob2
